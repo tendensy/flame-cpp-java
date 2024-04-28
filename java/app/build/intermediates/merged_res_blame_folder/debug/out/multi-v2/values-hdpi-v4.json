@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.realrussia.game.app-mergeDebugResources-13:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tende\\.gradle\\caches\\transforms-3\\f1bf9adc4fef5c39d765c149454ae4c0\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

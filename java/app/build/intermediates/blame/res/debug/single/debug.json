@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reinstall_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\reinstall_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_na_glavnuyu.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\na_glavnuyu.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reinstall_files.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\reinstall_files.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_button_0.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\dialog_button_0.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fps_limit.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\fps_limit.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_ttnorms_blackitalic.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\ttnorms_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_ttnorms_mediumitalic.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\ttnorms_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_settings_btn.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\settings_btn.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_donate_btn.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\donate_btn.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackonline_bg.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\blackonline_bg.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_ttnorms_extrabold.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\ttnorms_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_black.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_button_1.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\dialog_button_1.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_game.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\btn_game.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_bg.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\settings_bg.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_render_screen.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\main_render_screen.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_install_game_bg.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\install_game_bg.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_forum_activity.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\forum_activity.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update_files.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\update_files.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_loadingscreen.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\loadingscreen.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_btn_play.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\btn_play.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_reinstall_game.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\reinstall_game.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_update_game.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\update_game.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_download.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\download.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_activity.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_header_shadow.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\dialog_header_shadow.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackonline_logo.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\blackonline_logo.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bg.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\font_ttnorms_medium.ttf.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\font\\ttnorms_medium.ttf"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_btn_forum.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\btn_forum.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graph_plus.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\graph_plus.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_adtlogo.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\adtlogo.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_delete_game.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\delete_game.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line_in_chat.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\line_in_chat.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_light.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_bg_old.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\settings_bg_old.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\update_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\color_wallet_primary_text_holo_light.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xperiaicon.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable\\xperiaicon.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_install.xml.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\layout\\game_install.xml"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\wkt\\Мой клиент\\java\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\wkt\\Мой клиент\\java\\app\\src\\main\\res\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    }
+]

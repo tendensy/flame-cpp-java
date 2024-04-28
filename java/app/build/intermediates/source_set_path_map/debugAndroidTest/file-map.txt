@@ -1,0 +1,4 @@
+com.realrussia.game.test.app-androidTest-0 C:\wkt\Мой клиент\java\app\build\generated\res\resValues\androidTest\debug
+com.realrussia.game.test.app-mergeDebugAndroidTestResources-1 C:\wkt\Мой клиент\java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.realrussia.game.test.app-mergeDebugAndroidTestResources-2 C:\wkt\Мой клиент\java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.realrussia.game.test.app-merged_res-3 C:\wkt\Мой клиент\java\app\build\intermediates\merged_res\debugAndroidTest

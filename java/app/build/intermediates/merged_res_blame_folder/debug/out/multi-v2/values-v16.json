@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.realrussia.game.app-mergeDebugResources-13:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tende\\.gradle\\caches\\transforms-3\\f1bf9adc4fef5c39d765c149454ae4c0\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tende\\.gradle\\caches\\transforms-3\\1f58f9896dbeb7bd9f1765c561ab66f7\\transformed\\core-1.3.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

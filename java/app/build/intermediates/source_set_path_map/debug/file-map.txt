@@ -1,0 +1,17 @@
+com.realrussia.game.app-transition-1.0.0-0 C:\Users\tende\.gradle\caches\transforms-3\0a801efa3ca175c118d5e2ea9154dd52\transformed\transition-1.0.0\res
+com.realrussia.game.app-core-1.3.1-1 C:\Users\tende\.gradle\caches\transforms-3\1f58f9896dbeb7bd9f1765c561ab66f7\transformed\core-1.3.1\res
+com.realrussia.game.app-jetified-appcompat-resources-1.2.0-2 C:\Users\tende\.gradle\caches\transforms-3\60547b025818bfccaf919a661f21abe7\transformed\jetified-appcompat-resources-1.2.0\res
+com.realrussia.game.app-recyclerview-1.0.0-3 C:\Users\tende\.gradle\caches\transforms-3\7b6d37bf55e3c732a48fdaf8140e1983\transformed\recyclerview-1.0.0\res
+com.realrussia.game.app-jetified-mkloader-1.4.0-4 C:\Users\tende\.gradle\caches\transforms-3\8007ee387c628062118eb601139a2218\transformed\jetified-mkloader-1.4.0\res
+com.realrussia.game.app-cardview-1.0.0-5 C:\Users\tende\.gradle\caches\transforms-3\a0415c11c133b00f3f44774a92779b06\transformed\cardview-1.0.0\res
+com.realrussia.game.app-coordinatorlayout-1.0.0-6 C:\Users\tende\.gradle\caches\transforms-3\a163b75f891eea30224a86e0bd5cec75\transformed\coordinatorlayout-1.0.0\res
+com.realrussia.game.app-constraintlayout-2.0.4-7 C:\Users\tende\.gradle\caches\transforms-3\b1384678b4122790ae630c62f2682dab\transformed\constraintlayout-2.0.4\res
+com.realrussia.game.app-material-1.0.0-8 C:\Users\tende\.gradle\caches\transforms-3\bff764958a49af2928e41543c1b916a9\transformed\material-1.0.0\res
+com.realrussia.game.app-jetified-sdp-android-1.1.0-9 C:\Users\tende\.gradle\caches\transforms-3\c218cbe9ef1c6f4a9f69d135dbf8f2f4\transformed\jetified-sdp-android-1.1.0\res
+com.realrussia.game.app-appcompat-1.2.0-10 C:\Users\tende\.gradle\caches\transforms-3\f1bf9adc4fef5c39d765c149454ae4c0\transformed\appcompat-1.2.0\res
+com.realrussia.game.app-resValues-11 C:\wkt\Мой клиент\java\app\build\generated\res\resValues\debug
+com.realrussia.game.app-packageDebugResources-12 C:\wkt\Мой клиент\java\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.realrussia.game.app-packageDebugResources-13 C:\wkt\Мой клиент\java\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.realrussia.game.app-merged_res-14 C:\wkt\Мой клиент\java\app\build\intermediates\merged_res\debug
+com.realrussia.game.app-debug-15 C:\wkt\Мой клиент\java\app\src\debug\res
+com.realrussia.game.app-main-16 C:\wkt\Мой клиент\java\app\src\main\res

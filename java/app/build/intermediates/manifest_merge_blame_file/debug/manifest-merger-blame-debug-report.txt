@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.realrussia.game"
+4    android:versionCode="10"
+5    android:versionName="lr-build-stable" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:5:5-75
+12-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:6:5-80
+13-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:7:5-79
+14-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:7:22-77
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:8:5-66
+15-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+16-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:9:5-82
+16-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:9:22-80
+17    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+17-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:10:5-81
+17-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:10:22-79
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:11:5-65
+18-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:11:22-63
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:12:5-78
+19-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:12:22-76
+20    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+20-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:13:5-72
+20-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:13:22-70
+21    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+21-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:14:5-70
+21-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:14:22-68
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:15:5-67
+22-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:15:22-65
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:16:5-70
+23-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:16:22-68
+24
+25    <uses-feature android:glEsVersion="0x00020000" />
+25-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:17:5-53
+25-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:17:19-51
+26    <uses-feature
+26-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:18:5-89
+27        android:name="android.hardware.touchscreen"
+27-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:18:19-62
+28        android:required="false" />
+28-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:18:63-87
+29
+30    <application
+30-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:20:5-42:19
+31        android:name="androidx.multidex.MultiDexApplication"
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.3.1] C:\Users\tende\.gradle\caches\transforms-3\1f58f9896dbeb7bd9f1765c561ab66f7\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@drawable/ic_launcher"
+34-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:21:9-45
+35        android:isGame="true"
+35-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:23:9-30
+36        android:label="@string/app_name"
+36-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:22:9-41
+37        android:largeHeap="true"
+37-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:25:9-33
+38        android:logo="@drawable/adtlogo" >
+38-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:24:9-41
+39        <provider
+39-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:26:9-28:20
+40            android:name="androidx.core.content.FileProvider"
+40-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:26:130-179
+41            android:authorities="com.realrussia.game.provider"
+41-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:26:19-69
+42            android:exported="false"
+42-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:26:70-94
+43            android:grantUriPermissions="true" >
+43-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:26:95-129
+44            <meta-data
+44-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:27:13-115
+45                android:name="android.support.FILE_PROVIDER_PATHS"
+45-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:27:24-74
+46                android:resource="@xml/provider_paths" />
+46-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:27:75-113
+47        </provider>
+48
+49        <activity
+49-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:29:9-191
+50            android:name="com.realrussia.game.launcher.InstallGame"
+50-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:29:56-111
+51            android:screenOrientation="portrait"
+51-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:29:19-55
+52            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+52-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:29:112-179
+53        <activity
+53-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:30:9-192
+54            android:name="com.realrussia.game.launcher.MainActivity"
+54-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:30:56-112
+55            android:screenOrientation="portrait"
+55-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:30:19-55
+56            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+56-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:30:113-180
+57        <activity
+57-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:31:9-196
+58            android:name="com.realrussia.game.launcher.SettingsActivity"
+58-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:31:56-116
+59            android:screenOrientation="portrait"
+59-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:31:19-55
+60            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+60-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:31:117-184
+61        <activity
+61-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:32:9-193
+62            android:name="com.realrussia.game.launcher.ForumActivity"
+62-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:32:56-113
+63            android:screenOrientation="portrait"
+63-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:32:19-55
+64            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+64-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:32:114-181
+65        <activity
+65-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:33:9-38:20
+66            android:name="com.realrussia.game.launcher.SplashActivity"
+66-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:33:89-147
+67            android:label="@string/app_name"
+67-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:33:56-88
+68            android:screenOrientation="portrait"
+68-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:33:19-55
+69            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+69-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:33:148-215
+70            <intent-filter>
+70-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:34:13-37:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:35:17-68
+71-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:35:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:36:17-76
+73-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:36:27-74
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:9-369
+77            android:name="com.realrussia.game.core.GTASA"
+77-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:162-207
+78            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+78-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:19-96
+79            android:label="@string/app_name"
+79-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:97-129
+80            android:launchMode="singleTask"
+80-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:130-161
+81            android:screenOrientation="landscape"
+81-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:208-245
+82            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen"
+82-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:246-313
+83            android:windowSoftInputMode="adjustNothing" />
+83-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:39:314-357
+84        <activity
+84-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:40:9-177
+85            android:name="com.realrussia.game.GTASA"
+85-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:40:57-97
+86            android:screenOrientation="landscape"
+86-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:40:19-56
+87            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+87-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:40:98-165
+88
+89        <meta-data
+89-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:41:9-75
+90            android:name="android.max_aspect"
+90-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:41:20-53
+91            android:value="2.1" />
+91-->C:\wkt\Мой клиент\java\app\src\main\AndroidManifest.xml:41:54-73
+92    </application>
+93
+94</manifest>

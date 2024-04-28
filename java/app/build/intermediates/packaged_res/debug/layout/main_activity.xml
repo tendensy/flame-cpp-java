@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/main_bg"
+	android:orientation="vertical">
+
+	<FrameLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:gravity="center">
+
+		<com.google.android.material.textfield.TextInputEditText
+			android:id="@+id/nick_edit"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginTop="85dp"
+			android:ems="10"
+			android:fontFamily="@font/ttnorms_blackitalic"
+			android:gravity="center"
+			android:hint="Имя_Фамилия"
+			android:imeOptions="actionDone"
+			android:inputType="text"
+			android:singleLine="true"
+			android:textColor="#FFFFFF"
+			android:textColorHint="#FFFFFF"
+			android:textStyle="italic" />
+		<Button
+			android:id="@+id/btn_play"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:background="@drawable/btn_game"
+			android:layout_gravity="bottom|center"/>
+
+	</FrameLayout>
+
+</RelativeLayout>

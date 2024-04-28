@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.realrussia.game.app-mergeDebugResources-13:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tende\\.gradle\\caches\\transforms-3\\f1bf9adc4fef5c39d765c149454ae4c0\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
