@@ -95,7 +95,7 @@ void handler(int signum, siginfo_t *info, void* contextPtr)
 
 	if(info->si_signo == SIGSEGV)
 	{	
-		CrashLog("REAL RUSSIA CLIENT CRASHED! :(");
+		CrashLog("CLIENT CRASHED! :(");
 		CrashLog("backtrace:");
 		CrashLog("1: libGTASA.so + 0x%X", context->uc_mcontext.arm_pc - g_libGTASA);
 		CrashLog("2: libGTASA.so + 0x%X", context->uc_mcontext.arm_lr - g_libGTASA);
@@ -108,7 +108,7 @@ void handler(int signum, siginfo_t *info, void* contextPtr)
 		CrashLog("Patches: installed; Ingame patches: installed");
 		PrintSymbols((void*)(context->uc_mcontext.arm_pc), (void*)(context->uc_mcontext.arm_lr));
 
-		Log("Real Russia CLIENT CRASHED! :(");
+		Log("CLIENT CRASHED! :(");
 		Log("backtrace:");
 		Log("1: libGTASA.so + 0x%X", context->uc_mcontext.arm_pc - g_libGTASA);
 		Log("2: libGTASA.so + 0x%X", context->uc_mcontext.arm_lr - g_libGTASA);
@@ -143,7 +143,7 @@ jint JNI_OnLoad(JavaVM *vm, void *reserved)
 
 	CPatch::InitHookStuff();
 	CMain::SetRootStorage("/data/data/com.realrussia.game/");
-	CMain::SetBaseStorage("/storage/emulated/0/FussRussia/");
+	CMain::SetBaseStorage("/storage/emulated/0/FakeRussia/");
 
 	LoadBassLibrary();
 	InitRenderWareFunctions();
